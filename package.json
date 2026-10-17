@@ -1,0 +1,21 @@
+{
+  "name": "leftover-chef-ai",
+  "version": "1.0.0",
+  "description": "Don't waste it. Taste it. Mom's Kitchen AI React + Vite app using Gemma 4",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "server": "python server.py"
+  },
+  "dependencies": {
+    "lucide-react": "^1.58.0",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^6.1.2",
+    "vite": "^8.3.4"
+  }
+}
